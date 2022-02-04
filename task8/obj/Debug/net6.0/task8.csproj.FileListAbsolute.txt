@@ -1,0 +1,15 @@
+/Users/vadik/Documents/Seminar/task8/obj/Debug/net6.0/task8.csproj.AssemblyReference.cache
+/Users/vadik/Documents/Seminar/task8/obj/Debug/net6.0/task8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadik/Documents/Seminar/task8/obj/Debug/net6.0/task8.AssemblyInfoInputs.cache
+/Users/vadik/Documents/Seminar/task8/obj/Debug/net6.0/task8.AssemblyInfo.cs
+/Users/vadik/Documents/Seminar/task8/obj/Debug/net6.0/task8.csproj.CoreCompileInputs.cache
+/Users/vadik/Documents/Seminar/task8/bin/Debug/net6.0/task8
+/Users/vadik/Documents/Seminar/task8/bin/Debug/net6.0/task8.deps.json
+/Users/vadik/Documents/Seminar/task8/bin/Debug/net6.0/task8.runtimeconfig.json
+/Users/vadik/Documents/Seminar/task8/bin/Debug/net6.0/task8.dll
+/Users/vadik/Documents/Seminar/task8/bin/Debug/net6.0/ref/task8.dll
+/Users/vadik/Documents/Seminar/task8/bin/Debug/net6.0/task8.pdb
+/Users/vadik/Documents/Seminar/task8/obj/Debug/net6.0/task8.dll
+/Users/vadik/Documents/Seminar/task8/obj/Debug/net6.0/ref/task8.dll
+/Users/vadik/Documents/Seminar/task8/obj/Debug/net6.0/task8.pdb
+/Users/vadik/Documents/Seminar/task8/obj/Debug/net6.0/task8.genruntimeconfig.cache
