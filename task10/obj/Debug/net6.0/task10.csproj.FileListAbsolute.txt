@@ -1,0 +1,15 @@
+/Users/vadik/Documents/Seminar/task10/obj/Debug/net6.0/task10.csproj.AssemblyReference.cache
+/Users/vadik/Documents/Seminar/task10/obj/Debug/net6.0/task10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadik/Documents/Seminar/task10/obj/Debug/net6.0/task10.AssemblyInfoInputs.cache
+/Users/vadik/Documents/Seminar/task10/obj/Debug/net6.0/task10.AssemblyInfo.cs
+/Users/vadik/Documents/Seminar/task10/obj/Debug/net6.0/task10.csproj.CoreCompileInputs.cache
+/Users/vadik/Documents/Seminar/task10/bin/Debug/net6.0/task10
+/Users/vadik/Documents/Seminar/task10/bin/Debug/net6.0/task10.deps.json
+/Users/vadik/Documents/Seminar/task10/bin/Debug/net6.0/task10.runtimeconfig.json
+/Users/vadik/Documents/Seminar/task10/bin/Debug/net6.0/task10.dll
+/Users/vadik/Documents/Seminar/task10/bin/Debug/net6.0/ref/task10.dll
+/Users/vadik/Documents/Seminar/task10/bin/Debug/net6.0/task10.pdb
+/Users/vadik/Documents/Seminar/task10/obj/Debug/net6.0/task10.dll
+/Users/vadik/Documents/Seminar/task10/obj/Debug/net6.0/ref/task10.dll
+/Users/vadik/Documents/Seminar/task10/obj/Debug/net6.0/task10.pdb
+/Users/vadik/Documents/Seminar/task10/obj/Debug/net6.0/task10.genruntimeconfig.cache
