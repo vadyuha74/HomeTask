@@ -1,5 +1,5 @@
 ﻿// Найти третью цифру числа или сообщить, что её нет.
-int InputExamNumber()
+int InputExamNumber() // ввод и проверка числа
 {
     while (true)
     {

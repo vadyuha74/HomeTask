@@ -4,8 +4,7 @@ int DelSecondDig(int num)
     int dig = (num / 100) * 10 + num % 10;
     return dig;
 }
-// Ввод и проверка числа
-int InputExamNumber()
+int InputExamNumber() // Ввод и проверка числа
 {
     while (true)
     {
