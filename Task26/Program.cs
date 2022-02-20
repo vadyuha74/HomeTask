@@ -1,4 +1,4 @@
-﻿// Возведите число А в натуральную степень B используя цикл
+﻿// Возведение число А в целую степень B используя цикл
 int InputExamNumber() // Ввод и проверка числа
 {
     while (true)
@@ -33,7 +33,7 @@ double Exponent(int a, int b) // возведенеие в степень
     return c;
 }
 int a, b;
-Console.WriteLine("Возведение число А в натуральную степень B");
+Console.WriteLine("Возведение числа А в целую степень B");
 Console.WriteLine("Введите число А");
 a = InputExamNumber();
 Console.WriteLine("Введите число B");
