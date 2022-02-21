@@ -31,4 +31,4 @@ int[] array = new int[18];
 Console.WriteLine("Задан массив");
 FillArray(array, 100, 1000);
 OutputArray(array);
-Console.WriteLine($"Количество четных чисел: {ColEvenNum(array)}, соответсвенно нечетных: {array.Length-ColEvenNum(array)}");
+Console.WriteLine($"Количество четных чисел: {ColEvenNum(array)}, соответсвенно нечетных: {array.Length - ColEvenNum(array)}");
