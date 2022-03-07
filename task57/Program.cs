@@ -14,7 +14,7 @@ int InputExamNumber() // ввод и проверка числа
     }
 }
 
-void PrintArray(int[,] matr)
+void PrintArray(int[,] matr) // печать матрицы
 {
     for (int i = 0; i < matr.GetLength(0); i++)
     {
@@ -26,7 +26,7 @@ void PrintArray(int[,] matr)
     }
 }
 
-void FillArray(int[,] matr)
+void FillArray(int[,] matr) // заполнение матрицы
 {
     for (int i = 0; i < matr.GetLength(0); i++)
     {
@@ -37,7 +37,7 @@ void FillArray(int[,] matr)
     }
 }
 
-int[,] SortRowMatrix(int[,] matr)
+int[,] SortRowMatrix(int[,] matr) // сортировка строк
 {
     for (int i = 0; i < matr.GetLength(0); i++)
     {
@@ -55,6 +55,7 @@ int[,] SortRowMatrix(int[,] matr)
     }
     return matr;
 }
+
 Console.WriteLine("Введите количество строк");
 int m = InputExamNumber();
 Console.WriteLine("Введите количество столбцов");
